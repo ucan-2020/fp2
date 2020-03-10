@@ -1,3 +1,5 @@
-# fp2
+# Repositório para FP 2 - 2020
 
-tESTE
+Este repositório foi criado para armazenar e gerir todos os códigos fontes criados durante as aulas.
+
+
